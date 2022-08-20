@@ -1,0 +1,15 @@
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\bin\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.exe
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\bin\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.deps.json
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\bin\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.runtimeconfig.json
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\bin\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.dll
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\bin\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.pdb
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.AssemblyInfo.cs
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.dll
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\refint\Adventure game! The Conquest of Grung Gandazak!.dll
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.pdb
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\Adventure game! The Conquest of Grung Gandazak!.genruntimeconfig.cache
+D:\VisualStudioRepos\Adventure game! The Conquest of Grung Gandazak!\obj\Debug\net6.0\ref\Adventure game! The Conquest of Grung Gandazak!.dll
