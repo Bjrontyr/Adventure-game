@@ -11,6 +11,9 @@
         //====================================================================================================================================================================================
         // Below this line are repeatable methods or none-room game stuff! So the Grumbler, Title screen, Inventory list, stuff like that!
 
+        public static Action<string> ww = Console.WriteLine;
+         
+ 
         public static void Dialogue(string message, string color)
         {
             //Method for Dialogue: Used for when the main character or other characters speak.
@@ -691,7 +694,7 @@
                 }
 
             }
-            else if (Inventory.Contains("Kitchensvisit" + "MetalBar"))
+            else if (Inventory.Contains("Kitchensvisit") && Inventory.Contains("Metalbar"))
             {
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
@@ -751,7 +754,7 @@
                     Game.Bar2Kit();
                 }
             }
-            else if (Inventory.Contains("Kitchensvisit" + "LockedSkavenInKitchen" + "BurnedSkavenAlive"))
+            else if (Inventory.Contains("Kitchensvisit")&& Inventory.Contains("LockedSkavenInKitchen")&&Inventory.Contains("BurnedSkavenAlive"))
             {
                 //Sequence for exploring the remains of the burned out Kitchens.
             }
@@ -1241,17 +1244,20 @@
                 //Find nothing
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
-                Console.WriteLine("You decide to take a closer look at a few of the workbecnhes.");
+                Console.WriteLine("You decide to take a closer look at a few of the workbenches.");
                 Console.WriteLine("");
+                ww("");
+                ww("");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
+                Game.WorkshopChoice();
             }
             else if (PlayerChoice == "2")
             {
                 //Sledge+ Check if the player already has the sledge
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
-
+                Console.WriteLine("");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
             }
@@ -1260,7 +1266,7 @@
                 //Go back the hallway
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
-
+                Console.WriteLine("");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
                 Console.WriteLine("----------------------------------------------------------------------------------------------------------------------------------");
             }

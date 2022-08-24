@@ -1,0 +1,5 @@
+D:\PublishedProjects\GrungGandazak1\Adventure game! The Conquest of Grung Gandazak!.exe
+D:\PublishedProjects\GrungGandazak1\Adventure game! The Conquest of Grung Gandazak!.dll
+D:\PublishedProjects\GrungGandazak1\Adventure game! The Conquest of Grung Gandazak!.deps.json
+D:\PublishedProjects\GrungGandazak1\Adventure game! The Conquest of Grung Gandazak!.runtimeconfig.json
+D:\PublishedProjects\GrungGandazak1\Adventure game! The Conquest of Grung Gandazak!.pdb
